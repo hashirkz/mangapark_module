@@ -8,10 +8,10 @@
     "moduleImage": "https://i.pinimg.com/originals/57/68/83/576883f5740b8f78e3bb19cdf88716ba.jpg",
     "moduleVersion": 1.0,
     "moduleLenguage": "ENG",
-    "moduleType": "Image | Text",
+    "moduleType": "Image",
     "baseURL": "https://mangapark.net",
     "moduleDeveloperSite": "https://github.com/hashirkz/mangapark_module",
-    "UpdateSite": "https://github.com/hashirkz/mangapark_module/",
+    "UpdateSite": "https://raw.githubusercontent.com/hashirkz/mangapark_module/master/mangapark_module/mangapark.json?token=GHSAT0AAAAAAB3SODGWXEG2W62O222KEWEIY37DPPQ",
     "preferedServer": "",
     "preferedDownloadServer": "",
     "blackListed": [
