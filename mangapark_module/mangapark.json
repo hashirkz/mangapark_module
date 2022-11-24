@@ -10,8 +10,8 @@
     "moduleLenguage": "ENG",
     "moduleType": "Image | Text",
     "baseURL": "https://mangapark.net",
-    "moduleDeveloperSite": "",
-    "UpdateSite": "",
+    "moduleDeveloperSite": "https://github.com/hashirkz/mangapark_module",
+    "UpdateSite": "https://github.com/hashirkz/mangapark_module/",
     "preferedServer": "",
     "preferedDownloadServer": "",
     "blackListed": [
