@@ -220,9 +220,10 @@
     // Fill the output array with output objects.
     // Scripts cant use comments so delete them before loading them into KETSU.
     // add a \ if you are going to use ""
+        
+        
     
-    
-        let MainPageObject = new MainPage(new ModuleRequest('','get',emptyKeyValue,null),new Extra([new Commands('',emptyKeyValue)],emptyKeyValue),new JavascriptConfig(true,false,''),output);
+        let MainPageObject = new MainPage(new ModuleRequest('https://mangapark.net','get',emptyKeyValue,null),new Extra([new Commands('',emptyKeyValue)],emptyKeyValue),new JavascriptConfig(true,false,''),output);
     
         var finalJson = JSON.stringify(MainPageObject);
         savedData.innerHTML = finalJson;
